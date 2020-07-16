@@ -40,5 +40,6 @@ export class Toolbar extends ExcelComponent {
 	
 	onClick(event){
 	
+	
 	}
 }

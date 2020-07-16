@@ -19,6 +19,7 @@ export class Excel {
 			// }
 			$el.html( component.toHTML())
 			$root.append($el)
+			
 			return component
 		})
 
